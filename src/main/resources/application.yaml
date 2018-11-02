@@ -1,0 +1,8 @@
+coap:
+  udp:
+    server:
+      port: 9109
+  thread-pool:
+    max-pool-size: 500
+    core-pool-size: 50
+    max-queue-size: 100
